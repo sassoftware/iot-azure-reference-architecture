@@ -144,20 +144,10 @@ To enable Continuous Integration/Continuous Delivery (CI/CD) of any project comp
 
 Azure IoT devices can also take advantage of the [Azure IoT Hub Device Update](https://docs.microsoft.com/en-us/azure/iot-hub-device-update/understand-device-update) feature.  This allows updates of the Operating System and software installed on the device to be managed in the cloud with IoT Hub.
 
-# Next Steps
-For detailed information about Azure IoT Edge, including details regarding managing ESP Edge via Azure, consult the following project:
-- [IoT Edge reference architecture](https://gitlab.sas.com/IOT/reference-architectures/)
-
 ## Contributing
-
-**Required**. Use the default text below if you accept contributions. If you do not accept contributions (e.g., a samples project), note that here.
-
 > We welcome your contributions! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to submit contributions to this project. 
 
 ## License
-
-**Required**. Use the default text below. **NOTE:** Nothing different should be used here without prior approval of SAS Legal.
-
 > This project is licensed under the [Apache 2.0 License](LICENSE).
 
 # Additional Resources
